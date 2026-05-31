@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\7019work\\ARStickyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F414B80-9F88-47BB-58C4-0572AA806A71}|Assembly-CSharp.csproj|f:\\7019work\\arstickynotes\\assets\\arplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F414B80-9F88-47BB-58C4-0572AA806A71}|Assembly-CSharp.csproj|solutionrelative:assets\\arplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARPlacement.cs",
+              "DocumentMoniker": "F:\\7019work\\ARStickyNotes\\Assets\\ARPlacement.cs",
+              "RelativeDocumentMoniker": "Assets\\ARPlacement.cs",
+              "ToolTip": "F:\\7019work\\ARStickyNotes\\Assets\\ARPlacement.cs",
+              "RelativeToolTip": "Assets\\ARPlacement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T17:59:35.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
