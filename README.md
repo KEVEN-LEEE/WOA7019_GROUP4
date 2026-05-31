@@ -134,10 +134,6 @@ To contribute to this project:
 3. Test thoroughly before submitting
 4. Submit a pull request with detailed descriptions
 
-## 👥 Project Team
-
-This is a group project for WOA7019. Team member: KEVEN-LEEE
-
 ## 📝 License
 
 This project is open source. Please check the license file for specific terms and conditions.
